@@ -1,6 +1,6 @@
 # Nick Wolfe
 
-Hello! My name is Nick :wave:. I'm a Product Managaer at Bell managing the Wi-Fi App and Bell Email
+Hello! My name is Nick :wave:. I'm a Product Managaer at AcuityAds 
 
 
 ## Get in touch
